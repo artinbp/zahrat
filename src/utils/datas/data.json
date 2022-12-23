@@ -1,0 +1,5577 @@
+﻿{
+    "Airline": [
+        {
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " B9",
+            "Name": " B9",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " EP",
+            "Name": " EP",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " HH",
+            "Name": " HH",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " I3",
+            "Name": " I3",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " IV",
+            "Name": " IV",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " QB",
+            "Name": " QB",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " W5",
+            "Name": " W5",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": " ZV",
+            "Name": " ZV",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_001",
+            "Name": "Iran Air Tour (Removed)",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_002",
+            "Name": "Sepahan Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_003",
+            "Name": "Atrak",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_004",
+            "Name": "Taftan Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_005",
+            "Name": "Pouya Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_006",
+            "Name": "Hesa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_007",
+            "Name": "Saha",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_008",
+            "Name": "Sepehran",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_PA",
+            "Name": "Pars Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_VR",
+            "Name": "Varesh",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "_ZV",
+            "Name": "Zagros Airlines (Removed)",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "00",
+            "Name": "00",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "05",
+            "Name": "05",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0A",
+            "Name": "Amber Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0B",
+            "Name": "Blue Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0C",
+            "Name": "IBL Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0D",
+            "Name": "Darwin Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0F",
+            "Name": "0F",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0J",
+            "Name": "Jetclub",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0O",
+            "Name": "0O",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0V",
+            "Name": "0V",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "0Y",
+            "Name": "0Y",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1A",
+            "Name": "Amadeus Global Travel Distribution",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1B",
+            "Name": "Abacus International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1C",
+            "Name": "Electronic Data Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1D",
+            "Name": "Radixx Solutions International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1E",
+            "Name": "Travelsky Technology",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1F",
+            "Name": "INFINI Travel Information",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1G",
+            "Name": "Travelport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1H",
+            "Name": "Sirena-Travel",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1I",
+            "Name": "NetJets Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1K",
+            "Name": "Sutra",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1L",
+            "Name": "Navitaire Open Skies",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1M",
+            "Name": "Sirena JSC",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1N",
+            "Name": "Navitaire",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1P",
+            "Name": "Worldspan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1Q",
+            "Name": "Sirena",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1R",
+            "Name": "Bird Information Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1S",
+            "Name": "Sabre",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1T",
+            "Name": "East-Line JSC",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1U",
+            "Name": "ITA Software",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1W",
+            "Name": "Sabre",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1Y",
+            "Name": "Electronic Data Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "1Z",
+            "Name": "Fantasia Info Network",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2A",
+            "Name": "Deutsche Bahn",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2B",
+            "Name": "Albawings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2C",
+            "Name": "SNCF",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2D",
+            "Name": "Dynamic Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2F",
+            "Name": "TWO TAXI AEREO",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2G",
+            "Name": "Angara Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2H",
+            "Name": "Thalys",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2I",
+            "Name": "21 Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2J",
+            "Name": "Air Burkina",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2K",
+            "Name": "Aerolineas Galapagos",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2L",
+            "Name": "Helvetic Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2M",
+            "Name": "Moldavian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2N",
+            "Name": "NextJet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2O",
+            "Name": "Redemption  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2P",
+            "Name": "Airphill Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2Q",
+            "Name": "Air Cargo Carriers",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2R",
+            "Name": "Via Rail Canada",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2S",
+            "Name": "Air Carnival",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2T",
+            "Name": "Haiti Ambassador Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2U",
+            "Name": "Air Guinee Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2V",
+            "Name": "Amtrak",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2W",
+            "Name": "Welcome Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "2Z",
+            "Name": "Chang'an Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "31",
+            "Name": "Aerolineas Del Sur",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3A",
+            "Name": "Chu Kong Passenger Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3B",
+            "Name": "Job Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3C",
+            "Name": "Air Chathams",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3E",
+            "Name": "Air Choice One",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3F",
+            "Name": "Pacific Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3G",
+            "Name": "Gambia Bird Airlines LTD  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3H",
+            "Name": "Air Inuit",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3J",
+            "Name": "Jubba Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3K",
+            "Name": "Jetstar Asia Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3L",
+            "Name": "Air Arabia Abu Dhabi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3M",
+            "Name": "Silver Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3N",
+            "Name": "Air Urga",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3O",
+            "Name": "Air Arabia Maroc",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3P",
+            "Name": "Tiara Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3Q",
+            "Name": "KC International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3R",
+            "Name": "Avior Regional  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3S",
+            "Name": "Air Antilles Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3T",
+            "Name": "Tarco Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3U",
+            "Name": "Sichuan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3V",
+            "Name": "TNT Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3W",
+            "Name": "Malawian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "3X",
+            "Name": "Japan Air Commuter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4A",
+            "Name": "Aero Transporte",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4B",
+            "Name": "Boutique Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4C",
+            "Name": "Latam Airlines Colombia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4D",
+            "Name": "Air Sinai",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4F",
+            "Name": "Air City",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4G",
+            "Name": "Gazpromavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4H",
+            "Name": "HiSky",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4J",
+            "Name": "Jetair Caribbean",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "4K",
+            "Name": "Kenn Borek Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4M",
+            "Name": "Latam Airlines Argentina  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4N",
+            "Name": "Air North Charter - Canada",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4O",
+            "Name": "Interjet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4P",
+            "Name": "Public Charters",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4Q",
+            "Name": "Safi Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4R",
+            "Name": "Renef Viajeros  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4S",
+            "Name": "Star Airways  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4T",
+            "Name": "Belair Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4U",
+            "Name": "Germanwings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4Y",
+            "Name": "EW Discover",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "4Z",
+            "Name": "South African Airlink ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5A",
+            "Name": "Alpine Air Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5C",
+            "Name": "Nature Air  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5D",
+            "Name": "Aerolitoral",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5F",
+            "Name": "Fly One  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5G",
+            "Name": "Aerocuahonte",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5H",
+            "Name": "Fly540",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5I",
+            "Name": "Alsa Grupo SLU",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5J",
+            "Name": "Cebu Pacific",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5K",
+            "Name": "Hi Fly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5L",
+            "Name": "Fly Salone  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5M",
+            "Name": "Montserrat Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5N",
+            "Name": "Nordavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5O",
+            "Name": "Asl Airlines France",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5Q",
+            "Name": "5Q",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5S",
+            "Name": "5S",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5T",
+            "Name": "Canadian North",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5U",
+            "Name": "TAG Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5V",
+            "Name": "840 Everts",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5W",
+            "Name": "Wizz Air Abu Dhabi",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "5X",
+            "Name": "United Parcel Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5Y",
+            "Name": "Atlas Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "5Z",
+            "Name": "Cemair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6A",
+            "Name": "Armenia Airways  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6B",
+            "Name": "TUIfly Nordic",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6D",
+            "Name": "Travel Service Slovensko",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6E",
+            "Name": "IndiGo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6F",
+            "Name": "Primera Air Nordic",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6G",
+            "Name": "Executive Express  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6H",
+            "Name": "Israir",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6I",
+            "Name": "Air Alsie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6J",
+            "Name": "Solaseed Air  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6K",
+            "Name": "Kyrgyz Trans Avia  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6N",
+            "Name": "Niger Airlines  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6O",
+            "Name": "Air Satellite",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6P",
+            "Name": "Club Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6Q",
+            "Name": "Cham Wings Airlines  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6R",
+            "Name": "Mirny Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6S",
+            "Name": "Saudi Gulf Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6U",
+            "Name": "Air Cargo Germany",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6V",
+            "Name": "Avanza",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6W",
+            "Name": "Saratov Airlines Joint Stock Company",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6Y",
+            "Name": "Smartlynx Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "6Z",
+            "Name": "Eurasia Air  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7A",
+            "Name": "Air Jet  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7B",
+            "Name": "Fly Blue Crane  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7C",
+            "Name": "Jeju Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7D",
+            "Name": "MGC Aviation  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7E",
+            "Name": "Sylt Air GmbH",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7F",
+            "Name": "First Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7G",
+            "Name": "Star Flyer",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7H",
+            "Name": "Ravn Alaska",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7I",
+            "Name": "Insel Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7J",
+            "Name": "Tajik Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7K",
+            "Name": "Kogalymavia Air Company",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7L",
+            "Name": "Aerocaribbean  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7M",
+            "Name": "MayAir ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7N",
+            "Name": "Pan American World",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7O",
+            "Name": "Travel Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7P",
+            "Name": "7P",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7Q",
+            "Name": "Elite Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7R",
+            "Name": "Rusline  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7S",
+            "Name": "Ryan Air Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7T",
+            "Name": "Trenitalia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7W",
+            "Name": "Wind Rose Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "7Y",
+            "Name": "Mann Yadanarpon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "81",
+            "Name": "81",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "89",
+            "Name": "89",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8A",
+            "Name": "Panama Airways  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8B",
+            "Name": "TransNusa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8C",
+            "Name": "Air Transport International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8D",
+            "Name": "Servant Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8E",
+            "Name": "Bering Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8F",
+            "Name": "Stp Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8G",
+            "Name": "Instone Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8H",
+            "Name": "BH Air  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8I",
+            "Name": "Insel Air Aruba  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8J",
+            "Name": "Linea Aerea Eco Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8L",
+            "Name": "Lucky Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8M",
+            "Name": "Myanmar Airways International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8N",
+            "Name": "Regional Air Services  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8O",
+            "Name": "West Coast Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8P",
+            "Name": "Pacific Coastal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8Q",
+            "Name": "Onur Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8R",
+            "Name": "8R",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8S",
+            "Name": "Scorpio Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8T",
+            "Name": "Air Tindi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8U",
+            "Name": "Afriqiyah Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8V",
+            "Name": "Wright Air Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8W",
+            "Name": "Fly Always",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8Y",
+            "Name": "Air Burundi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "8Z",
+            "Name": "Wizz Air Bulgaria",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9A",
+            "Name": "Eagle Express Air Charter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9B",
+            "Name": "Access Rail",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9C",
+            "Name": "Spring Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9E",
+            "Name": "Endeavor Air  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9F",
+            "Name": "Eurostar",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9H",
+            "Name": "Changan Airlines  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9I",
+            "Name": "Alliance Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9K",
+            "Name": "Cape Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9L",
+            "Name": "West Link Airways  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9M",
+            "Name": "Central Mountain Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9N",
+            "Name": "Satena",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9O",
+            "Name": "National Airways Cameroon",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9P",
+            "Name": "Air Arabia Jordan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9Q",
+            "Name": "Caicos Express Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9R",
+            "Name": "Phuket Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9T",
+            "Name": "Transwest Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9U",
+            "Name": "Air Moldova",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9V",
+            "Name": "Vipair Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9W",
+            "Name": "Jet Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9X",
+            "Name": "Southern Airways Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "9Y",
+            "Name": "National Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A0",
+            "Name": "A0",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A1",
+            "Name": "A.P.G. Distribution System",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A2",
+            "Name": "Astra Airlines  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A3",
+            "Name": "Aegean Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A4",
+            "Name": "AZIMUTH Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A5",
+            "Name": "Hop",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A6",
+            "Name": "Yunnan Hong Tu Airlines  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A7",
+            "Name": "Air Niamey  ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A8",
+            "Name": "Benin Golf Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "A9",
+            "Name": "Georgian Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AA",
+            "Name": "American Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AB",
+            "Name": "Air Berlin",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AC",
+            "Name": "Air Canada",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AD",
+            "Name": "Azul Linhas Aéreas Brasileiras",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AE",
+            "Name": "Mandarin Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AF",
+            "Name": "Air France",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AG",
+            "Name": "Aruba Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AH",
+            "Name": "Air Algérie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AI",
+            "Name": "Air India Limited",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AJ",
+            "Name": "Aero Contractors",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AJTK",
+            "Name": "Anadolu Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AK",
+            "Name": "AirAsia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AL",
+            "Name": "Air Leisure",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AM",
+            "Name": "Aeromexico",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AN",
+            "Name": "Advanced Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AO",
+            "Name": "Australian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AP",
+            "Name": "AlbaStar",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AQ",
+            "Name": "9 Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AR",
+            "Name": "Aerolíneas Argentinas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AS",
+            "Name": "Alaska Airlines, Inc.",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AT",
+            "Name": "Royal Air Maroc",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AU",
+            "Name": "Austral Líneas Aéreas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AV",
+            "Name": "Avianca",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AW",
+            "Name": "Africa World Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AX",
+            "Name": "Trans States Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AY",
+            "Name": "Finnair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "AZ",
+            "Name": "ITA Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B0",
+            "Name": "La Compagnie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B2",
+            "Name": "Belavia Belarusian",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B3",
+            "Name": "Bellview Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B4",
+            "Name": "Zanair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B5",
+            "Name": "Fly SAX",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B6",
+            "Name": "JetBlue Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B7",
+            "Name": "Uni Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B8",
+            "Name": "Eritrean Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "B9",
+            "Name": "Iran Air Tour",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BA",
+            "Name": "British Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BB",
+            "Name": "Seaborne Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BC",
+            "Name": "Skymark Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BD",
+            "Name": "BMI",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BE",
+            "Name": "Flybe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BF",
+            "Name": "French Bee",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BG",
+            "Name": "Biman Bangladesh Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BH",
+            "Name": "Hawkair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BI",
+            "Name": "Royal Brunei Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BJ",
+            "Name": "Nouvel Air Tunisie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BK",
+            "Name": "Potomac Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BL",
+            "Name": "Pacific Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BM",
+            "Name": "BMI Regional",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BN",
+            "Name": "Horizon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BO",
+            "Name": "Bouraq Indonesia Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BP",
+            "Name": "Air Botswana",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BQ",
+            "Name": "Bukovyna Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BR",
+            "Name": "EVA Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BS",
+            "Name": "British International Helicopters",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BT",
+            "Name": "Air Baltic",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "BU",
+            "Name": "Buryat Airlines Aircompany",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BV",
+            "Name": "Blue Panorama Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BW",
+            "Name": "Caribbean Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BX",
+            "Name": "Air Busan",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "BY",
+            "Name": "Thomson Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "BZ",
+            "Name": "Blue Bird Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C2",
+            "Name": "Ceiba Intercontinental",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C3",
+            "Name": "Independent Carrier (ICAR)",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C4",
+            "Name": "Zimex Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C5",
+            "Name": "CommutAir",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C6",
+            "Name": "CanJet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C7",
+            "Name": "Cinnamon Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C8",
+            "Name": "Cronos Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "C9",
+            "Name": "Cirrus Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CA",
+            "Name": "Air China",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CB",
+            "Name": "Kalitta Charters II",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CC",
+            "Name": "CM Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CD",
+            "Name": "Corendon Dutch Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CE",
+            "Name": "Nationwide Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CF",
+            "Name": "City Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CG",
+            "Name": "Airlines PNG",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CH",
+            "Name": "Bemidji Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CI",
+            "Name": "China Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CJ",
+            "Name": "CityFlyer",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CK",
+            "Name": "China Cargo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CL",
+            "Name": "Lufthansa CityLine",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CM",
+            "Name": "Copa Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CN",
+            "Name": "Grand China Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CO",
+            "Name": "Cobalt Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CP",
+            "Name": "Compass Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CPN",
+            "Name": "CPN",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CQ",
+            "Name": "Coastal Travels",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CR",
+            "Name": "OAG",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CS",
+            "Name": "Continental Micronesia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CT",
+            "Name": "Alitalia City Liner SPA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CU",
+            "Name": "Cubana de Aviación",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CV",
+            "Name": "Cargolux",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CW",
+            "Name": "Air Marshall Islands",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CX",
+            "Name": "Cathay Pacific",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CY",
+            "Name": "Cyprus Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "CZ",
+            "Name": "China Southern Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D2",
+            "Name": "Severstal Air Company",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D3",
+            "Name": "Daallo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D4",
+            "Name": "Alidaunia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D5",
+            "Name": "Dauair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D6",
+            "Name": "Interair South Africa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D7",
+            "Name": "AirAsia X",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D8",
+            "Name": "Norwegian Air International Ltd.",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "D9",
+            "Name": "Donavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DA",
+            "Name": "Air Georgia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DB",
+            "Name": "Brit Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DC",
+            "Name": "Golden Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DD",
+            "Name": "Nok Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DE",
+            "Name": "Condor Flugdienst",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DF",
+            "Name": "Condor Berlin",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DG",
+            "Name": "Cebgo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DH",
+            "Name": "Douniah Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DI",
+            "Name": "Norwegian Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DJ",
+            "Name": "Pacific Blue",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DK",
+            "Name": "Eastland Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DL",
+            "Name": "Delta Air Lines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DM",
+            "Name": "Asian Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DN",
+            "Name": "Norwegian Air Argentina",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DO",
+            "Name": "Discovery Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DP",
+            "Name": "Pobeda",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DQ",
+            "Name": "Coastal Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DR",
+            "Name": "Ruili Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DS",
+            "Name": "easyJet Switzerland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DT",
+            "Name": "TAAG Angola Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DU",
+            "Name": "Air Liaison",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DV",
+            "Name": "JSC Aircompany SCAT",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DW",
+            "Name": "Aero-Charter Ukraine",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DX",
+            "Name": "DAT Danish Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DY",
+            "Name": "Norwegian Air Shuttle",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "DZ",
+            "Name": "DONGHAI AIRLINES",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E0",
+            "Name": "Eos Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E1",
+            "Name": "Everbread",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E2",
+            "Name": "Eagle Atlantic Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E3",
+            "Name": "EGO Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E4",
+            "Name": "Aero Asia International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E5",
+            "Name": "Samara Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E6",
+            "Name": "Bringer Air Cargo Taxi Aéreo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E7",
+            "Name": "Equaflight Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E8",
+            "Name": "Alpi Eagles",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "E9",
+            "Name": "Evelop Airlines S.L.",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EA",
+            "Name": "East Horizon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EB",
+            "Name": "Wamos Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EC",
+            "Name": "Avialeasing Aviation Company",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ED",
+            "Name": "Airblue",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EE",
+            "Name": "Aero Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EF",
+            "Name": "Far Eastern Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EG",
+            "Name": "Ernest Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EH",
+            "Name": "Ana Wings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EI",
+            "Name": "Aer Lingus",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EJ",
+            "Name": "New England Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EK",
+            "Name": "Emirates Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EL",
+            "Name": "Ellin Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EM",
+            "Name": "Empire Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EN",
+            "Name": "Air Dolomiti",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EO",
+            "Name": "Pegas Fly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EP",
+            "Name": "Iran Aseman",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EQ",
+            "Name": "TAME",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ER",
+            "Name": "Astar Air Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ES",
+            "Name": "DHL International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ET",
+            "Name": "Ethiopian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EU",
+            "Name": "Empresa Ecuatoriana De Aviación",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EV",
+            "Name": "ExpressJet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EW",
+            "Name": "Eurowings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EX",
+            "Name": "Atlantic Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EY",
+            "Name": "Etihad Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "EZ",
+            "Name": "Sun Air of Scandinavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F2",
+            "Name": "SAFARILINK AVIATION",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F3",
+            "Name": "Flyadeal",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F4",
+            "Name": "Albarka Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F5",
+            "Name": "Cosmic Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F6",
+            "Name": "Faroejet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F7",
+            "Name": "Flybaboo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "F8",
+            "Name": "Flair Airlines",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "F9",
+            "Name": "Frontier Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FA",
+            "Name": "Safair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FB",
+            "Name": "Bulgaria Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FC",
+            "Name": "Viva Colombia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FD",
+            "Name": "Thai AirAsia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FE",
+            "Name": "Primaris Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FF",
+            "Name": "Airshop",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FG",
+            "Name": "Ariana Afghan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FH",
+            "Name": "Freebird Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FI",
+            "Name": "Icelandair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FJ",
+            "Name": "Air Pacific",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FK",
+            "Name": "Africa West",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FL",
+            "Name": "AirTran Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FM",
+            "Name": "Shanghai Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FN",
+            "Name": "Regional Air Lines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FO",
+            "Name": "Flybondi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FP",
+            "Name": "Servicios Aereos De Los Andes",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FP0",
+            "Name": "Fly Persia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FPI",
+            "Name": "FPI",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FR",
+            "Name": "Ryanair",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "FS",
+            "Name": "Syphax Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FT",
+            "Name": "FlyEgypt",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FU",
+            "Name": "Fuzhou Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FV",
+            "Name": "Rossiya",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FW",
+            "Name": "Ibex Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FX",
+            "Name": "Federal Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FY",
+            "Name": "Firefly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "FZ",
+            "Name": "Fly Dubai",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G0",
+            "Name": "Ghana International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G1",
+            "Name": "Gorkha Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G2",
+            "Name": "Avirex",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G3",
+            "Name": "Gol Linhas Aereas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G4",
+            "Name": "Allegiant Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G5",
+            "Name": "China Express Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G6",
+            "Name": "Ghadames Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G7",
+            "Name": "GoJet Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G8",
+            "Name": "Go Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "G9",
+            "Name": "Air Arabia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GA",
+            "Name": "Garuda Indonesia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GB",
+            "Name": "Airborne Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GC",
+            "Name": "Gambia International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GD",
+            "Name": "Air Alpha Greenland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GE",
+            "Name": "TransAsia Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GF",
+            "Name": "Gulf Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GG",
+            "Name": "Air Guyane",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GH",
+            "Name": "Ghana Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GI",
+            "Name": "Itek Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GJ",
+            "Name": "Zhejiang Loong Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GK",
+            "Name": "JetStar Japan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GL",
+            "Name": "Air Greenland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GM",
+            "Name": "Air Slovakia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GN",
+            "Name": "Air Gabon",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GO",
+            "Name": "Kuzu Airlines Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GP",
+            "Name": "APG Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GQ",
+            "Name": "Sky Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GR",
+            "Name": "Aurigny Air Services",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GS",
+            "Name": "Tianjin Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GT",
+            "Name": "GB Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GV",
+            "Name": "Grant Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GW",
+            "Name": "SkyGreece Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GX",
+            "Name": "Guangxi Beibu Gulf Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GY",
+            "Name": "Colorful Guizhou Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "GZ",
+            "Name": "Air Rarotonga",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H1",
+            "Name": "Hahn Air Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H2",
+            "Name": "Sky Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H3",
+            "Name": "H3",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H4",
+            "Name": "Aero4M",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H5",
+            "Name": "Haiti Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H6",
+            "Name": "Bulgarian Air Charter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H7",
+            "Name": "Eagle Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H8",
+            "Name": "Dalavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "H9",
+            "Name": "Himalaya Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HA",
+            "Name": "Hawaiian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HB",
+            "Name": "Harbor Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HC",
+            "Name": "Air Senegal",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HD",
+            "Name": "AIRDO",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "HE",
+            "Name": "Luftfahrtgesellschaft Walter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HF",
+            "Name": "Hapagfly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HG",
+            "Name": "Niki",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HH",
+            "Name": "Taban",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HI",
+            "Name": "Papillon Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HJ",
+            "Name": "Hellas Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HK",
+            "Name": "Four Star Aviation / Four Star Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HM",
+            "Name": "Air Seychelles",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HN",
+            "Name": "Heavylift Cargo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HO",
+            "Name": "Juneyao Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HP",
+            "Name": "Amapola Flyg",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HQ",
+            "Name": "Thomas Cook Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HR",
+            "Name": "Hahn Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HS",
+            "Name": "Heli Securite Helicopter Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HT",
+            "Name": "Aeromist-Kharkiv",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HU",
+            "Name": "Hainan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HV",
+            "Name": "Transavia Holland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HW",
+            "Name": "North-Wright Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HX",
+            "Name": "Hong Kong Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HY",
+            "Name": "Uzbekistan Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "HZ",
+            "Name": "Aurora Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I2",
+            "Name": "Iberia Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I3",
+            "Name": "ATA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I4",
+            "Name": "Interstate Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I5",
+            "Name": "AirAsia India",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I6",
+            "Name": "Sky Eyes",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I7",
+            "Name": "Paramount Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I8",
+            "Name": "Izhavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "I9",
+            "Name": "Air Italy",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IA",
+            "Name": "Iraqi Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IB",
+            "Name": "Iberia Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IC",
+            "Name": "Indian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ID",
+            "Name": "Interlink Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IE",
+            "Name": "Solomon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IF",
+            "Name": "Fly Baghdad",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IG",
+            "Name": "Air Italy",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IH",
+            "Name": "Irtysh Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "II",
+            "Name": "IBC Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IJ",
+            "Name": "Spring Airlines Japan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IK",
+            "Name": "Ikar",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IM",
+            "Name": "Menajet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IN",
+            "Name": "MAT Macedonian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IO",
+            "Name": "IrAero",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IP",
+            "Name": "Atyrau Air Ways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IQ",
+            "Name": "Augsburg Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IR",
+            "Name": "Iran Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IRA",
+            "Name": "IRA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IRK",
+            "Name": "IRK",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IRM",
+            "Name": "IRM",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IRQ",
+            "Name": "IRQ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IRZ",
+            "Name": "IRZ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IS",
+            "Name": "AIS Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IT",
+            "Name": "Tigerair Taiwan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IU",
+            "Name": "Super Air Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IV",
+            "Name": "Caspian",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IW",
+            "Name": "AOM French Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IX",
+            "Name": "Air India Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IY",
+            "Name": "Yemenia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IZ",
+            "Name": "Arkia Israel Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "IZG",
+            "Name": "IZG",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J2",
+            "Name": "Azerbaijan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J3",
+            "Name": "Northwestern Air",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "J4",
+            "Name": "Badr Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J6",
+            "Name": "AVCOM",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J7",
+            "Name": "Denim Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J8",
+            "Name": "Berjaya Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "J9",
+            "Name": "Jazeera Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JA",
+            "Name": "B&H Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JB",
+            "Name": "Helijet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JC",
+            "Name": "JAL Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JD",
+            "Name": "Beijing Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JE",
+            "Name": "Mango",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JF",
+            "Name": "Jet Asia Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JG",
+            "Name": "Airline Container Leasing",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JH",
+            "Name": "Nordeste Linhas Aéreas Regionais",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JI",
+            "Name": "Meraj Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JJ",
+            "Name": "Latam Airlines Brasil",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JK",
+            "Name": "Spanair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JL",
+            "Name": "Japan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JM",
+            "Name": "Air Jamaica",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JN",
+            "Name": "JOON",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JO",
+            "Name": "Jet time",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JP",
+            "Name": "Adria Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JQ",
+            "Name": "Jetstar Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JR",
+            "Name": "Aero California",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JS",
+            "Name": "Air Koryo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JT",
+            "Name": "Lion Mentari Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JU",
+            "Name": "Air Serbia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JV",
+            "Name": "Bearskin Lake Air Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JW",
+            "Name": "Vanilla Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JX",
+            "Name": "Jett8 Airlines Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JY",
+            "Name": "Intercaribbean Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "JZ",
+            "Name": "Jatayu Gelang Sejahtera",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K-",
+            "Name": "K-",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K2",
+            "Name": "Eurolot",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K4",
+            "Name": "Kalitta Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K5",
+            "Name": "SeaPort Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K6",
+            "Name": "Cambodia Angkor Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K7",
+            "Name": "Air KBZ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K8",
+            "Name": "Airlink Zambia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "K9",
+            "Name": "Krylo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KA",
+            "Name": "Dragonair, Hong Kong Dragon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KB",
+            "Name": "Druk Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KC",
+            "Name": "Air Astana",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KD",
+            "Name": "PT KAL Star Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KE",
+            "Name": "Korean Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KF",
+            "Name": "Blue1",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KG",
+            "Name": "LAI - Línea Aérea IAACA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KH",
+            "Name": "Aloha Air Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KI",
+            "Name": "Krasavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KJ",
+            "Name": "Air Incheon",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KK",
+            "Name": "Atlas Global",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KL",
+            "Name": "KLM",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KM",
+            "Name": "Air Malta",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KN",
+            "Name": "China United Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KO",
+            "Name": "Alaska Central Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KP",
+            "Name": "ASKY Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KQ",
+            "Name": "Kenya Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KR",
+            "Name": "Cambodia Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KS",
+            "Name": "Peninsula Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KU",
+            "Name": "Kuwait Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KV",
+            "Name": "Asian Express Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KW",
+            "Name": "Kharkiv Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KX",
+            "Name": "Cayman Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KY",
+            "Name": "Air São Tomé and Príncipe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "KZ",
+            "Name": "Nippon Cargo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L1",
+            "Name": "Lufthansa Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L2",
+            "Name": "Lynden Air Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L3",
+            "Name": "Lynx Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L4",
+            "Name": "Air Service",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L5",
+            "Name": "Atlantique Air Assistance",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L6",
+            "Name": "Tbilaviamsheni",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L8",
+            "Name": "Air Luxor GB",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "L9",
+            "Name": "Belle Air Europe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LA",
+            "Name": "Latam Airlines Group",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LB",
+            "Name": "Lloyd Aéreo Boliviano",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LC",
+            "Name": "Equatorial Congo Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LD",
+            "Name": "Air Hong Kong",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LE",
+            "Name": "LE",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LF",
+            "Name": "FlyNordic",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LG",
+            "Name": "Luxair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LH",
+            "Name": "Lufthansa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LI",
+            "Name": "Leeward Islands Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LJ",
+            "Name": "Sierra National Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LK",
+            "Name": "Kyrgyz Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LL",
+            "Name": "Miami Air International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LM",
+            "Name": "Loganair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LN",
+            "Name": "Libyan Arab Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LO",
+            "Name": "LOT Polish Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LP",
+            "Name": "LAN Peru",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LQ",
+            "Name": "Lanmei Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LR",
+            "Name": "LACSA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LS",
+            "Name": "Jet2.com",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "LT",
+            "Name": "Air Lituanica",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LU",
+            "Name": "Latam Airlines Chile",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LV",
+            "Name": "Albanian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LW",
+            "Name": "Pacific Wings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LX",
+            "Name": "Swiss International Air Lines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LY",
+            "Name": "El Al Israel Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "LZ",
+            "Name": "Air Link",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M0",
+            "Name": "Aero Mongolia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M2",
+            "Name": "Mahfooz Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M3",
+            "Name": "North Flying",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M4",
+            "Name": "Mistral Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M5",
+            "Name": "Kenmore Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M6",
+            "Name": "Amerijet International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M7",
+            "Name": "MasAir",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M8",
+            "Name": "Mekong Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "M9",
+            "Name": "Motor Sich",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MA",
+            "Name": "Malév Hungarian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MB",
+            "Name": "MNG Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MC",
+            "Name": "Air Mobility Command",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MD",
+            "Name": "Air Madagascar",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ME",
+            "Name": "Middle East Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MF",
+            "Name": "Xiamen Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MG",
+            "Name": "Champion Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MH",
+            "Name": "Malaysia Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MI",
+            "Name": "SilkAir",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MJ",
+            "Name": "Myway Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MK",
+            "Name": "Air Mauritius",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ML",
+            "Name": "Air Mediterranee",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MM",
+            "Name": "Peach Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MN",
+            "Name": "Kulula",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MO",
+            "Name": "Calm Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MP",
+            "Name": "Martinair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MQ",
+            "Name": "American Eagle Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MR",
+            "Name": "Air Mauritanie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MS",
+            "Name": "Egyptair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MT",
+            "Name": "Thomas Cook Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MTDE",
+            "Name": "Thomas Cook Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MU",
+            "Name": "China Eastern Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MV",
+            "Name": "Armenian International Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MW",
+            "Name": "Mokulele Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MX",
+            "Name": "Mexicana de Aviación",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MY",
+            "Name": "Maya Island Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "MZ",
+            "Name": "Amakusa Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N2",
+            "Name": "Kabo Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N3",
+            "Name": "Omskavia Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N4",
+            "Name": "Nord Wind",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N5",
+            "Name": "Norfolk Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N6",
+            "Name": "Nomad Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N7",
+            "Name": "National Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N8",
+            "Name": "National Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "N9",
+            "Name": "Novair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NA",
+            "Name": "North American Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NB",
+            "Name": "Sterling Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NC",
+            "Name": "National Jet Systems",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ND",
+            "Name": "FMI Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NE",
+            "Name": "SkyEurope",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NF",
+            "Name": "Air Vanuatu",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NG",
+            "Name": "Lauda Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NH",
+            "Name": "All Nippon Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NI",
+            "Name": "Portugalia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NK",
+            "Name": "Spirit Airlines",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "NL",
+            "Name": "Shaheen Air International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NM",
+            "Name": "Air Madrid",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NN",
+            "Name": "VIM Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NO",
+            "Name": "Neos",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NP",
+            "Name": "Nile Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NPO",
+            "Name": "NPO",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NQ",
+            "Name": "Air Japan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NR",
+            "Name": "Pamir Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NS",
+            "Name": "Hebei Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NT",
+            "Name": "Binter Canarias",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NU",
+            "Name": "Japan Transocean Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NV",
+            "Name": "Karun Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NW",
+            "Name": "Northwest Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NX",
+            "Name": "Air Macau",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NY",
+            "Name": "Air Iceland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "NZ",
+            "Name": "Air New Zealand",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O2",
+            "Name": "Oceanic Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O4",
+            "Name": "Antrak Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O6",
+            "Name": "Avianca Brazil",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O7",
+            "Name": "Ozjet Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O8",
+            "Name": "Oasis Hong Kong Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "O9",
+            "Name": "Nova Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OA",
+            "Name": "Olympic Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OB",
+            "Name": "Boliviana De Aviacion",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OC",
+            "Name": "Oriental Air Bridge",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OD",
+            "Name": "Malindo Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OE",
+            "Name": "Laudamotion",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "OF",
+            "Name": "Air Finland",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OG",
+            "Name": "Star Air",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "OH",
+            "Name": "PSA Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OJ",
+            "Name": "Fly Jamaica Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OK",
+            "Name": "Czech Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OL",
+            "Name": "OLT Express Germany",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OM",
+            "Name": "MIAT Mongolian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ON",
+            "Name": "Our Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OO",
+            "Name": "SkyWest Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OP",
+            "Name": "Chalk's International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OQ",
+            "Name": "Chongqing Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OR",
+            "Name": "Arkefly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OS",
+            "Name": "Austrian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OT",
+            "Name": "Aeropelican Air Services",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OU",
+            "Name": "Croatia Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OV",
+            "Name": "Salam Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OW",
+            "Name": "Skyward Eepress",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OX",
+            "Name": "Orient Thai Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OY",
+            "Name": "Andes Líneas Aéreas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "OZ",
+            "Name": "Asiana Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P0",
+            "Name": "Proflight Zambia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P1",
+            "Name": "PublicCharters.com",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P2",
+            "Name": "AirKenya Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P3",
+            "Name": "Passaredo Transportes Aéreos",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P4",
+            "Name": "Air Peace",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P5",
+            "Name": "Wingo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P6",
+            "Name": "Pascan",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P7",
+            "Name": "Russian Sky Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P8",
+            "Name": "Air Mekong",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "P9",
+            "Name": "Peruvian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PA",
+            "Name": "Airblue",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PB",
+            "Name": "PAL Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PC",
+            "Name": "Pegasus Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PD",
+            "Name": "Porter Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PE",
+            "Name": "People's",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PF",
+            "Name": "Primera Air Scandinavia ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PG",
+            "Name": "Bangkok Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PH",
+            "Name": "Polynesian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PI",
+            "Name": "Polar Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PJ",
+            "Name": "Air Saint Pierre",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PK",
+            "Name": "Pakistan International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PL",
+            "Name": "Southern Air Charter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PM",
+            "Name": "Tropic Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PN",
+            "Name": "China West Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PO",
+            "Name": "Polar Air Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PP",
+            "Name": "Jet Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PQ",
+            "Name": "Sky up",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "PR",
+            "Name": "Philippine Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PS",
+            "Name": "Ukraine International",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "PT",
+            "Name": "Piedmont Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PU",
+            "Name": "PLUNA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PV",
+            "Name": "St Barth Commuter",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PW",
+            "Name": "Precision Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PX",
+            "Name": "Air Niugini",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PY",
+            "Name": "Surinam Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "PZ",
+            "Name": "Latam Airlines Paraguay",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q3",
+            "Name": "Zambian Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q4",
+            "Name": "Euro Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q5",
+            "Name": "40-Mile Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q6",
+            "Name": "Aero Condor Peru",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q8",
+            "Name": "Pacific East Asia Cargo Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Q9",
+            "Name": "Green Africa Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QA",
+            "Name": "Cimber Sterling",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QB",
+            "Name": "Qeshm Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QB2",
+            "Name": "QB2",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QC",
+            "Name": "Air Corridor",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QD",
+            "Name": "JC Cambodia Intl Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QE",
+            "Name": "Crossair Europe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QF",
+            "Name": "Qantas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QG",
+            "Name": "Citilink Indonesia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QH",
+            "Name": "Bamboo Airways",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "QI",
+            "Name": "Cimber Sterling",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QJ",
+            "Name": "Jet Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QK",
+            "Name": "Air Canada Jazz",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QL",
+            "Name": "Línea Aérea de Servicio ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QM",
+            "Name": "Air Malawi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QN",
+            "Name": "Skytrans Regional",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QO",
+            "Name": "Aeromexpress",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QQ",
+            "Name": "Alliance Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QR",
+            "Name": "Qatar Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QS",
+            "Name": "Smartwings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QT",
+            "Name": "TAMPA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QU",
+            "Name": "UTair-Ukraine",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QV",
+            "Name": "Lao Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QW",
+            "Name": "Blue Wings",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QX",
+            "Name": "Horizon Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QY",
+            "Name": "European Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "QZ",
+            "Name": "PT Indonesia AirAsia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R0",
+            "Name": "Royal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R1",
+            "Name": "Sirin",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R2",
+            "Name": "Orenburg Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R3",
+            "Name": "Aircompany Yakutia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R5",
+            "Name": "Jordan Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R6",
+            "Name": "RACSA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R7",
+            "Name": "Aserca Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R8",
+            "Name": "Kyrgyzstan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "R9",
+            "Name": "Camai Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RA",
+            "Name": "Nepal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RB",
+            "Name": "Syrian Arab Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RC",
+            "Name": "Atlantic Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RD",
+            "Name": "Ryan International Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RE",
+            "Name": "Stobart Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RF",
+            "Name": "Florida West International Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RG",
+            "Name": "VRG Linhas Aéreas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RH",
+            "Name": "Republic Express Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RI",
+            "Name": "Mandala Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RJ",
+            "Name": "Royal Jordanian",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RK",
+            "Name": "Royal Khmer Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RL",
+            "Name": "Royal Falcon",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RM",
+            "Name": "Air Company Armenia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RO",
+            "Name": "Tarom",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RP",
+            "Name": "Chautauqua Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RQ",
+            "Name": "Kam Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RR",
+            "Name": "Royal Air Force",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RS",
+            "Name": "Air Seoul",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RT",
+            "Name": "RT",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RU",
+            "Name": "Air Bridge Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RV",
+            "Name": "Air Canada Rouge",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RW",
+            "Name": "Republic Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RX",
+            "Name": "Aviaexpress",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RY",
+            "Name": "Jiangxi Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "RZ",
+            "Name": "Euro Exec Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S0",
+            "Name": "Slok Air Gambia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S2",
+            "Name": "Jet Lite",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S3",
+            "Name": "Santa Barbara Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S4",
+            "Name": "SATA International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S5",
+            "Name": "Small Planet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S6",
+            "Name": "Sunrise Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S7",
+            "Name": "Siberia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S8",
+            "Name": "Sounds Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "S9",
+            "Name": "FlyBig",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SA",
+            "Name": "South African Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SB",
+            "Name": "Air Caledonie International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SC",
+            "Name": "Shandong Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SD",
+            "Name": "Sudan Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SE",
+            "Name": "XL Airways France",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SF",
+            "Name": "Tassili Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SG",
+            "Name": "Spicejet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SH",
+            "Name": "Fly Me Sweden",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SI",
+            "Name": "Blue Islands",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SJ",
+            "Name": "Sriwijaya Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SK",
+            "Name": "Scandinavian Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SL",
+            "Name": "Thai Lion Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SLS",
+            "Name": "SLS",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SM",
+            "Name": "Air Cairo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SN",
+            "Name": "Brussels Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SO",
+            "Name": "Apex Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SP",
+            "Name": "SATA Air Acores",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SQ",
+            "Name": "Singapore Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SR",
+            "Name": "Swissair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SS",
+            "Name": "Corsairfly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ST",
+            "Name": "Germania",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SU",
+            "Name": "Aeroflot Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SV",
+            "Name": "Saudia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SW",
+            "Name": "Air Namibia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SX",
+            "Name": "Skywork Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SY",
+            "Name": "Sun Country Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "SZ",
+            "Name": "Somon Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T2",
+            "Name": "Thai Air Cargo",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T3",
+            "Name": "Eastern Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T4",
+            "Name": "TRIP Linhas Aéreas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T5",
+            "Name": "Turkmenistan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T6",
+            "Name": "Tavrey Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T7",
+            "Name": "Twin Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "T9",
+            "Name": "Aviator Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TA",
+            "Name": "Taca International Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TB",
+            "Name": "Jetairfly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TBM",
+            "Name": "TBM",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TBZ",
+            "Name": "TBZ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TC",
+            "Name": "Air Tanzania",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TD",
+            "Name": "Atlantis European Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TE",
+            "Name": "Sky Taxi",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TF",
+            "Name": "Braathens Regional Aviation ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TG",
+            "Name": "Thai Airways International",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TH",
+            "Name": "Transmile Air Services",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TI",
+            "Name": "Tailwind Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TJ",
+            "Name": "Tradewind Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TK",
+            "Name": "Turkish Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TL",
+            "Name": "Airnorth",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TM",
+            "Name": "Linhas Aéreas de Moçambique",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TN",
+            "Name": "Air Tahiti Nui",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TO",
+            "Name": "Transavia France",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TP",
+            "Name": "TAP Portugal",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TQ",
+            "Name": "Tandem Aero",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TR",
+            "Name": "Scoot/TigerAir Singapore",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TS",
+            "Name": "Air Transat",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TT",
+            "Name": "Tiger Airways Australia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TU",
+            "Name": "Tunisair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TV",
+            "Name": "Virgin Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TW",
+            "Name": "TWAY AIR",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TWI",
+            "Name": "TWI",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TX",
+            "Name": "Air Caraibes",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TY",
+            "Name": "Air Caledonie",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "TZ",
+            "Name": "Scoot",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U2",
+            "Name": "easyJet",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "U3",
+            "Name": "Avies",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U4",
+            "Name": "PMTair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U5",
+            "Name": "USA3000 Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U6",
+            "Name": "Ural Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U7",
+            "Name": "Air Uganda",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "U8",
+            "Name": "Armavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UA",
+            "Name": "United Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UB",
+            "Name": "Myanmar National Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UBD",
+            "Name": "UBD",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UD",
+            "Name": "Hex'Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UE",
+            "Name": "Ultimate Jetcharters",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UF",
+            "Name": "UM Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UG",
+            "Name": "Tunisair Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UH",
+            "Name": "Atlasjet Ukraine",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UI",
+            "Name": "Super Air Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UJ",
+            "Name": "Almasria Universal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UK",
+            "Name": "Vistara",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "UL",
+            "Name": "SriLankan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UM",
+            "Name": "Air Zimbabwe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UN",
+            "Name": "Transaero Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UO",
+            "Name": "Hong Kong Express Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UP",
+            "Name": "Bahamasair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UQ",
+            "Name": "O'Connor Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UR",
+            "Name": "UR",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "US",
+            "Name": "US Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UT",
+            "Name": "UTair Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UU",
+            "Name": "Air Austral",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UW",
+            "Name": "Perimeter Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UX",
+            "Name": "Air Europa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UY",
+            "Name": "Cameroon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "UZ",
+            "Name": "El-Buraq Air Transport",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V0",
+            "Name": "Conviasa",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V2",
+            "Name": "Vision Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V3",
+            "Name": "Carpatair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V4",
+            "Name": "Reem Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V5",
+            "Name": "Aerovias DAP",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V6",
+            "Name": "V6",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V7",
+            "Name": "Volotea",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "V8",
+            "Name": "Iliamna Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "V9",
+            "Name": "Van Air Europe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VA",
+            "Name": "Virgin Australia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VB",
+            "Name": "Aeroenlaces Nacionales",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VC",
+            "Name": "Via Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VD",
+            "Name": "Hennan Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VE",
+            "Name": "C.A.I. Second",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VF",
+            "Name": "Valuair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VG",
+            "Name": "VLM Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VH",
+            "Name": "Viva Colombia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VI",
+            "Name": "Volga-Dnepr Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VJ",
+            "Name": "Vietjet Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VK",
+            "Name": "Anisec Luftfahrt",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VL",
+            "Name": "Air VIA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VM",
+            "Name": "Max Air Limited",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VN",
+            "Name": "Vietnam Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VO",
+            "Name": "Tyrolean Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VP",
+            "Name": "VASP",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VQ",
+            "Name": "Novoair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VR",
+            "Name": "Transportes Aereos de Cabo Verde",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VS",
+            "Name": "Virgin Atlantic Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VT",
+            "Name": "Air Tahiti",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VU",
+            "Name": "Air Ivoire",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VV",
+            "Name": "Aerosvit Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VW",
+            "Name": "Aeromar",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VX",
+            "Name": "Virgin America",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VY",
+            "Name": "Vueling Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "VZ",
+            "Name": "Thai Vietjat Air",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "W1",
+            "Name": "WDL Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W2",
+            "Name": "Flex Flight",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W3",
+            "Name": "Arik Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W4",
+            "Name": "Aero Services Executive",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W5",
+            "Name": "Mahan Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W6",
+            "Name": "Wizz Air",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "W7",
+            "Name": "Sayakhat Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W8",
+            "Name": "Cargojet Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "W9",
+            "Name": "Wizz Air UK",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WA",
+            "Name": "KLM Cityhopper",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WB",
+            "Name": "Rwandair Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WC",
+            "Name": "Islena De Inversiones",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WD",
+            "Name": "Amsterdam Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WE",
+            "Name": "Thai Smile Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WF",
+            "Name": "Widerøe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WG",
+            "Name": "Sunwing Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WH",
+            "Name": "West African Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WI",
+            "Name": "White Airways S.A.",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WJ",
+            "Name": "Labrador Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WK",
+            "Name": "Edelweiss Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WM",
+            "Name": "Windward Island Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WN",
+            "Name": "Southwest Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WO",
+            "Name": "Swoop Inc",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WP",
+            "Name": "Island Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WQ",
+            "Name": "WQ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WR",
+            "Name": "WestJet Encore",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WS",
+            "Name": "WestJet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WT",
+            "Name": "Wasaya Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WU",
+            "Name": "WU",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WV",
+            "Name": "Swe Fly",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WV2",
+            "Name": "WV2",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WW",
+            "Name": "WOW Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WX",
+            "Name": "CityJet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WY",
+            "Name": "Oman Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "WZ",
+            "Name": "Red Wings Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X1",
+            "Name": "X1",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X3",
+            "Name": "Hapag-Lloyd Express (TUIfly)",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X5",
+            "Name": "X5",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X7",
+            "Name": "Chitaavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X8",
+            "Name": "X8",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "X9",
+            "Name": "Avion Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XC",
+            "Name": "Corendon Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XE",
+            "Name": "JetSuite Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XF",
+            "Name": "Vladivostok Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XG",
+            "Name": "Sunexpress Germany",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XJ",
+            "Name": "Thai AirAsia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XK",
+            "Name": "Corse Méditerranée",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XL",
+            "Name": "Latam Airlines Ecuador",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XM",
+            "Name": "J-Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XO",
+            "Name": "Seair",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XP",
+            "Name": "Xtra Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XQ",
+            "Name": "SunExpress",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XR",
+            "Name": "Corendon Airlines Europe",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XS",
+            "Name": "SITA",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XT",
+            "Name": "PT Indonesia Airasia Extra",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XW",
+            "Name": "Nokscoot Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XX",
+            "Name": "XX",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XY",
+            "Name": "Flynas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "XZ",
+            "Name": "South African Express Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y0",
+            "Name": "Yellow Air Taxi/Friendship Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y2",
+            "Name": "Ygnus Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y4",
+            "Name": "Volaris",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y5",
+            "Name": "Golden Myanmar Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y6",
+            "Name": "Batavia Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y7",
+            "Name": "JSC Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y8",
+            "Name": "Yangtze River Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Y9",
+            "Name": "Kish Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YB",
+            "Name": "Harbour Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YC",
+            "Name": "Yamal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YD",
+            "Name": "Cologne Air Transport GmbH",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YE",
+            "Name": "Yan Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YG",
+            "Name": "South Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YH",
+            "Name": "West Caribbean Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YI",
+            "Name": "Air Sunshine",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YJ",
+            "Name": "Asian Wings Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YK",
+            "Name": "AVIA TRAFFIC COMPANY",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YL",
+            "Name": "Yamal Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YM",
+            "Name": "Montenegro Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YN",
+            "Name": "Air Creebec",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YO",
+            "Name": "Heli Air Monaco",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YQ",
+            "Name": "Link Conexion Aerea",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YR",
+            "Name": "Scenic Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YS",
+            "Name": "Régional Compagnie Aérienne Européenne",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YT",
+            "Name": "Yeti Airlines",
+            "Online Check-in Mandatory": "True"
+        },
+        {
+            "Code": "YU",
+            "Name": "EuroAtlantic Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YV",
+            "Name": "Mesa Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YW",
+            "Name": "Air Nostrum",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YX",
+            "Name": "Midwest Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YY",
+            "Name": "YY",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "YZ",
+            "Name": "Alas Uruguay",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z2",
+            "Name": "Airasia Zest",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z3",
+            "Name": "Avient Aviation",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z4",
+            "Name": "Zagros Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z5",
+            "Name": "GMG Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z6",
+            "Name": "Dniproavia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z7",
+            "Name": "ADC Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z8",
+            "Name": "Línea Aérea Amaszonas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "Z9",
+            "Name": "JSC BEK Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZA",
+            "Name": "Sky Angkor Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZB",
+            "Name": "Air Albania",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZD",
+            "Name": "ZD",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZE",
+            "Name": "Eastar Jet",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZF",
+            "Name": "Azur Air",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZG",
+            "Name": "ZIPAIR ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZH",
+            "Name": "Shenzhen Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZI",
+            "Name": "Aigle Azur",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZK",
+            "Name": "Great Lakes Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZL",
+            "Name": "Regional Express",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZM",
+            "Name": "Pegasus Asia",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZN",
+            "Name": "ZN",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZO",
+            "Name": "Zagros Airline",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZP",
+            "Name": "Silk Way Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZQ",
+            "Name": "ZQ",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZS",
+            "Name": "Kazaviaspas",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZT",
+            "Name": "Titan Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZU",
+            "Name": "Helios Airways",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZV",
+            "Name": "Zagros",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZW",
+            "Name": "Air Wisconsin",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZX",
+            "Name": "Air Georgian",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZY",
+            "Name": "Sky Airlines",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ZZ",
+            "Name": "AeroCRS",
+            "Online Check-in Mandatory": "False"
+        },
+        {
+            "Code": "ТЫ",
+            "Name": "Tulpar Air",
+            "Online Check-in Mandatory": "False"
+        }
+    ]
+}

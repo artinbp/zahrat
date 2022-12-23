@@ -1,0 +1,184 @@
+{
+  "BrandName": "CRS Trip",
+  "Flight Search": "رحلة البحث",
+  "Ticket List": "قائمة التذاكر",
+  "flight": "رحلة طيران",
+  "Ticket": "التذكرة",
+  "year": "سنة",
+  "today": "تاريخ اليوم",
+  "date": "تاريخ",
+  "search": "الآبحث",
+  "visa": "تأشيرة",
+  "lang": "عربی",
+  "touman": "تومان",
+  "AirLineClass": {
+    "F": "الدرجة الأولى",
+    "B": "رجال الأعمال",
+    "P": "الدرجة ملکي",
+    "E": "الدرجة السياحية"
+  },
+  "AirLineClassTitle": "فئات شركات الطيران",
+  "FlightType": {
+    "Systemic": "منهجية",
+    "Charter": "مستأجرة"
+  },
+  "AM": "صباحی",
+  "PM": "مسائی",
+  "Terminal": "الطرفي",
+  "FlightNumber": "رقم الرحلة الجوية",
+  "MaxAllowedBaggage": "مقدار الحمولة المسموح بها",
+  "Information": "معلومة",
+  "CancellationTerms": "شروط الإلغاء",
+  "EmptyChair": "كرسي فارغ",
+  "EnterTicket": "یختار التذكرة",
+  "CheckTicket": "تحقق من التذكرة",
+  "confirmTermOfService": "تأكيد شروط الخدمة",
+  "confirmAndBuy": "تأكيد وشراء",
+  "Total": "سعر",
+  "Adult": "بالغ",
+  "Child": "طفل ",
+  "Infant": "رضیع",
+  "Customers": "الزبائن",
+  "Customer": "الزبانة",
+  "Origin": "الأصل",
+  "Destination": "الوجهة",
+  "Airlines": "شركات الطيران",
+  "DateAndTimeOfFlight": "تاريخ و وقت الرحلة",
+  "TotalFlightTime": "إجمالي وقت الرحلة",
+  "StopTime": "مدة التوقف",
+  "FlightClass": "فئة الرحلة",
+  "SpecialLine": "خط خاص",
+  "allowedCargo": "البضائع المسموح بها",
+  "TicketInformation": "معلومات البطاقة",
+  "FlightDetails": "تفاصيل الرحلة",
+  "PriceDetails": "تفاصيل السعر",
+  "BuyTicket": "اشتري تذكرة",
+  "confirmYourBuy": "تأكيد الشراء",
+  "CustomerDetail": "تفاصيل العميل",
+  "OneWay": "ذهاب",
+  "RoundTrip": "اَیاب الذهالب",
+  "DepartDate": "تاریخ ذهب",
+  "ReturnDate": "تاریخ عودة",
+  "ReferenceTicket": "تذكرة مرجعية",
+  "PhoneNumber": "رقم الهاتف",
+  "SeveralAirLines": "العديد من شركات الطيران",
+  "CompanyName": "اسم الشرکة",
+  "SampleTicket": "عينة تذكرة",
+  "DownloadFile": "تحميل الملف",
+  "Amount": "مقدار",
+  "price": "مقدار",
+  "offer": "مقدار",
+  "Payment": "دفع",
+  "Pay": "يدفع",
+  "Reference": "مرجع",
+  "ProductReference": "مرجع المنتوج",
+  "card": {
+    "FlightClasses": "فئات الطيران",
+    "FlightNumber": "رقم الرحلة الجوية",
+    "FlightLate": "رحلة متأخرة",
+    "Baggage": "أمتعة",
+    "notreturn": "لا يمكنك العودة على هذه الرحلة"
+  },
+  "CustomerTable": {
+    "SelectCountries" :"بلد",
+    "count": "عدد",
+    "personality": "الشخصية",
+    "FullName": "الاسم الكامل",
+    "firstname": "الاسم الاول",
+    "lastname": "اسم العائلة",
+    "birthday": "عيد الميلاد",
+    "email": "البريد الإلكتروني",
+    "gender": "جنس",
+    "Male": "ذكر",
+    "Female": "أنثى",
+    "phone": "هاتف",
+    "country": "بلد",
+    "PassportExpireDate": "تاريخ انتهاء صلاحية جواز السفر",
+    "Passport": "جواز السفر",
+    "PassportCode": "رمز جواز السفر",
+    "National": "رمز دولي",
+    "NationalCode": "رمز دولي",
+    "Code": "الكود",
+    "codetype": "نوع الكود",
+    "usertype": "الفئة العمرية",
+    "actions": "أجراءات",
+    "Minutes": "الدقائق",
+    "Hour": "ساعة",
+    "errors": {
+      "Unavailable": "لا موجودة",
+      "invalid": {
+        "email": "بريد إلكتروني خاطئ!",
+        "phone": "هاتف غير صالح!",
+        "birthday": "تاريخ ميلاد غير صالح!",
+        "passport": "رمز المرور غير صالح!",
+        "national": "رمز وطني غير صالح!",
+        "firstname": "الاسم الأول غير صالح!",
+        "lastname": "اسم العائلة غير صالح!"
+      },
+      "required": {
+        "email": "البريد الإلكتروني المطلوب!",
+        "phone": "الهاتف المطلوب!",
+        "birthday": "عيد الميلاد المطلوب!",
+        "passport": "مطلوب رمز المرور!",
+        "national": "مطلوب كود وطني!",
+        "firstname": "الاسم الأول مطلوب!",
+        "lastname": "الاسم الاخير مطلوب!"
+      }
+    }
+  },
+  "Inputs": {
+    "simpleName": "محمد",
+    "simpleSureName": "ابن سعید",
+    "simplePassport": "x0x100xx00x10",
+    "simplePhone": "9999999999",
+    "simpleEmail": "البريد الإلكتروني",
+    "simpleDate": "**-**-****"
+  },
+  "Actions": {
+    "Delete": "حذف",
+    "Edit": "يحرر",
+    "Add": "يضيف",
+    "Update": "تحديث",
+    "sortBy": "ترتیب"
+  },
+  "Steps": {
+    "ChackandPayment": "تشاك والدفع",
+    "AddCustomer": " أضف الزبون",
+    "SelectTicket": "حدد تذكرة"
+  },
+  "homeLoading": {
+    "title": "أرجو الإنتظار",
+    "desc": "سنجد لك أفضل رحلة طيران"
+  },
+  "revalidateLoading": {
+    "title": "أرجو الإنتظار",
+    "desc": "سنجد لك أفضل رحلة طيران"
+  },
+  "filters": {
+    "filter": "مرشح",
+    "priceFilter": "مرشح السعر",
+    "foundedTicket": "تذاكر وجدت",
+    "timeFilter": "مرشح الوقت",
+    "flightClass": "فئة الرحلة",
+    "airLines": "الخطوط الجوية"
+  },
+  "status": {
+    "All": "الكل",
+    "Succssful": "ناجح",
+    "Failed": "باءت بالفشل",
+    "Refound": "أعاد العثور عليها"
+  },
+  "request": {
+    "fetch": "we gonna fetching ",
+    "Succssful": "your reguest success fully done.",
+    "Failed": "Failed",
+    "Refound": "Refound"
+  },
+  "sort": {
+    "lowPrice": "الأقل اأسعار",
+    "highPrice": "أعلى اأسعار",
+    "nearestTime": "أقرب وقت",
+    "latestTime": "آخر وقت"
+  }
+}
+

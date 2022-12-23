@@ -1,0 +1,181 @@
+{
+  "BrandName": "CRS Trip",
+  "Flight Search": "Flight Search",
+  "Ticket List": "Ticket List",
+  "flight": "Flight",
+  "Ticket": "Ticket",
+  "year": "Year",
+  "today": "Date Doday",
+  "date": "Date",
+  "search": "Search",
+  "visa": "visa",
+  "lang": "en",
+  "touman": "touman",
+  "AirLineClass": {
+    "F": "First Class",
+    "B": "Business Class",
+    "P": "Premium Economy",
+    "E": "Economy Class"
+  },
+  "AirLineClassTitle": "Airline Classes",
+  "FlightType": {
+    "Systemic": "Systemic",
+    "Charter": "Charter"
+  },
+  "PM": "PM",
+  "AM": "AM",
+  "Terminal": "Terminal",
+  "FlightNumber": "FlightNumber",
+  "MaxAllowedBaggage": "Max Allowed Baggage",
+  "Information": "Information",
+  "CancellationTerms": "Cancellation Terms",
+  "EmptyChair": "empty chair",
+  "EnterTicket": "Enter Ticket",
+  "CheckTicket": "Check Ticket",
+  "confirmTermOfService": "confirm term of service",
+  "confirmAndBuy": "confirm and buy",
+  "Total": "Total",
+  "Adult": "Adult",
+  "Child": "Child",
+  "Infant": "Infant",
+  "Customers": "Customers",
+  "Customer": "Customer",
+  "Origin": "Origin",
+  "Destination": "Destination",
+  "Airlines": "Airlines",
+  "DateAndTimeOfFlight": "Date and time of flight",
+  "TotalFlightTime": "Total flight time",
+  "StopTime": "Duration of stop",
+  "FlightClass": "Flight class",
+  "SpecialLine": "Special Line",
+  "allowedCargo": "Allowed Cargo",
+  "TicketInformation": "Ticket Information",
+  "FlightDetails": "Flight Details",
+  "PriceDetails": "Price Details",
+  "BuyTicket": "Buy Ticket",
+  "confirmYourBuy": "Confirm Your Buy",
+  "CustomerDetail": "Customer Detail",
+  "OneWay": "One Way",
+  "RoundTrip": "Round Trip",
+  "DepartDate": "Depart Date",
+  "ReturnDate": "Return Date",
+  "ReferenceTicket": "Reference Ticket",
+  "PhoneNumber": "Phone Number",
+  "SeveralAirLines": "Several AirLines",
+  "CompanyName": "Company Name",
+  "SampleTicket": "Sample Ticket",
+  "DownloadFile": "Download File",
+  "Amount": "Amount",
+  "Payment": "Payment",
+  "Pay": "Pay",
+  "Reference": "Reference",
+  "ProductReference": "Product Reference",
+  "card": {
+    "FlightClasses": "Flight Classes",
+    "FlightNumber": "Flight Number",
+    "FlightLate": "Flight Late",
+    "Baggage": "Baggage",
+    "notreturn": "you can`t return back on this flight"
+  },
+  "CustomerTable": {
+    "SelectCountries" :"SelectCountries",
+    "count": "count",
+    "personality": "personality",
+    "FullName": "Full Name",
+    "firstname": "firstname",
+    "lastname": "lastname",
+    "birthday": "birthday",
+    "gender": "gender",
+    "Male": "Male",
+    "Female": "Female",
+    "email": "email",
+    "phone": "phone",
+    "country": "Country",
+    "PassportExpireDate": "Passport Expire Date",
+    "Passport": "Passport",
+    "PassportCode": "Passport Code",
+    "National": "National",
+    "NationalCode": "National Code",
+    "Code": "Code",
+    "codetype": "Code Type",
+    "usertype": "age range",
+    "actions": "actions",
+    "Minutes": "Minutes",
+    "Hour": "Hour",
+    "errors": {
+      "Unavailable": "Unavailable",
+      "invalid": {
+        "email": "Invalid email!",
+        "phone": "Invalid phone!",
+        "birthday": "Invalid birthday!",
+        "passport": "Invalid PassPort Code!",
+        "national": "Invalid National Code!",
+        "firstname": "Invalid First Name!",
+        "lastname": "Invalid Last Name!"
+      },
+      "required": {
+        "email": "Required email!",
+        "phone": "Required phone!",
+        "birthday": "Required birthday!",
+        "passport": "Required PassPort Code!",
+        "national": "Required National Code!",
+        "firstname": "Required First Name!",
+        "lastname": "Required Last Name!"
+      }
+    }
+  },
+  "Inputs": {
+    "simpleName": "Mohammad",
+    "simpleSureName": "jackson",
+    "simplePassport": "x0x100xx00x10",
+    "simplePhone": "9999999999",
+    "simpleEmail": "email",
+    "simpleDate": "**-**-****"
+  },
+  "Actions": {
+    "Delete": "Delete",
+    "Edit": "Edit",
+    "Add": "Add",
+    "Update": "Update",
+    "sortBy": "Sort By"
+  },
+  "Steps": {
+    "ChackandPayment": "Chack and Payment",
+    "AddCustomer": "Add Customer",
+    "SelectTicket": "Select Ticket"
+  },
+  "homeLoading": {
+  "title": "Please wait",
+  "desc": "We will find the best flight for you"
+  },
+  "revalidateLoading": {
+  "title": "Please wait",
+  "desc": "We will find the best flight for you"
+  },
+  "filters": {
+    "filter": "Filter",
+    "priceFilter": "Price Filter",
+    "foundedTicket": "tickets found",
+    "timeFilter": "Time Filter",
+    "flightClass": "Flight Class",
+    "airLines": "Air Lines"
+  },
+  "status": {
+    "All": "All",
+    "Succssful": "Succssful",
+    "Failed": "Failed",
+    "Refound": "Refound"
+  },
+  "request": {
+    "fetch": "we gonna fetching ",
+    "Succssful": "your reguest success fully done.",
+    "Failed": "Failed",
+    "Refound": "Refound"
+  },
+  "sort": {
+    "lowPrice": "Low Price",
+    "highPrice": "High Price",
+    "nearestTime": "Nearest Time",
+    "latestTime": "Latest Time"
+  }
+}

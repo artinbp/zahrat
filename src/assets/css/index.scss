@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url(../fonts/Webfonts/fontiran.css);
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/DroidKufi-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Kufi';
+  font-style: normal;
+  font-weight: 700;
+  src:
+  url(../fonts/DroidKufi-Bold.ttf) format('truetype');
+}
+*{
+  font-family: 'Droid Arabic Kufi', sans-serif, serif;
+}
+.rtl{
+  direction: rtl;
+  text-align: right;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 100%;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: #00bcd400;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
